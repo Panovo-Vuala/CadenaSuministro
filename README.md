@@ -50,8 +50,3 @@ CadenaSuministro_Panovo/
 3. Conecta tu fuente de datos o consulta en SQL Server.
 4. Revisa la documentación en `/docs` para entender cada fórmula y estructura.
 
----
-
-## 📄 Licencia
-
-MIT – Libre uso con atribución.
