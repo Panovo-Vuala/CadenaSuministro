@@ -1,4 +1,4 @@
-# 📊 Dashboard Planeación Panovo - Power BI
+# 📊 Dashboard Cadena de Suministro Panovo - Power BI
 
 Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado a brindar visibilidad integral del desempeño de abastecimiento.
 
@@ -22,20 +22,17 @@ Brindar visibilidad integral del desempeño de abastecimiento mediante indicador
 ## 📁 Estructura del Repositorio
 
 ```plaintext
-PowerBI-OEE-Coflex/
+CadenaSuministro_Panovo/
 ├── pbix/                                   → Archivo PBIX del tablero
 ├── docs/
-│   ├── README.md                           → Descripción general del repositorio
-│   ├── Medidas.md                          → Medidas DAX documentadas
+│   ├── Medidas_Dax.md                      → Medidas DAX documentadas
 │   ├── Columnas_Calculadas.md              → DAX documentadas
-│   ├── Tablas_Catalogo.md                   → DAX documentadas
-│   ├── Instructivo Dashboard OEE.docx      → Guía de uso del dashboard
-├── sql/ 
-│   └── consulta_fuente_OEE.sql             → Consulta SQL base
+│   ├── Tablas_Catalogo.md                  → DAX documentadas
+│   └── Instructivo Dashboard OEE.docx      → Guía de uso del dashboard
 ├── img/
 │   ├── preview_dashboard.png               → Captura del dashboard
-│   └── modelo_datos.png                    → Relación entre tablas
-└── LICENSE                                 → MIT (u otra que se defina)
+│   └── Modelo_Datos.png                    → Relación entre tablas
+├── README.md                               → Descripción general del repositorio
 ```
 
 ---
