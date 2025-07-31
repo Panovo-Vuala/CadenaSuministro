@@ -23,8 +23,8 @@ Brindar visibilidad integral del desempeño de abastecimiento mediante indicador
 
 ```plaintext
 CadenaSuministro_Panovo/
-├── pbix/                                   → Archivo PBIX del tablero
 ├── docs/
+│   ├── pbix.md                             → Archivo editable PBIX descargable
 │   ├── Medidas_Dax.md                      → Medidas DAX documentadas
 │   ├── Columnas_Calculadas.md              → DAX documentadas
 │   ├── Tablas_Catalogo.md                  → DAX documentadas
